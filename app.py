@@ -7,7 +7,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, CallbackQueryHandler
 
 # --- الإعدادات الأساسية ---
-TOKEN = '7868200495:AAFR2g3l4SmL7jOTU8uDGL8OMn1lvohzOfo'
+TOKEN = '7830176312:AAHVY_pz-NtNa104ETa5TnYugkN72AnSnZ0'
 OWNER_ID = 7769271031
 
 ADMINS = [OWNER_ID]
